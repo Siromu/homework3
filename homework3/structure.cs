@@ -1,4 +1,4 @@
-﻿
+
     struct Complex
     {
         private double re; //дейвительное число
